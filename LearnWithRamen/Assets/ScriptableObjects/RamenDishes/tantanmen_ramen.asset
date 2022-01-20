@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b6a046c5830c6a4cbef9287f4dfaa4e, type: 3}
+  m_Name: tantanmen_ramen
+  m_EditorClassIdentifier: 
+  dishName: Tantanmen
+  listOfCharacter:
+  - {fileID: 11400000, guid: 11b7b52ddef9e6a4aaf678b949f7170d, type: 2}
+  - {fileID: 11400000, guid: 3a15611cc59cfb24793c15579d7b99c3, type: 2}
+  - {fileID: 11400000, guid: 11b7b52ddef9e6a4aaf678b949f7170d, type: 2}
+  - {fileID: 11400000, guid: 3a15611cc59cfb24793c15579d7b99c3, type: 2}
+  - {fileID: 11400000, guid: d43cad62265f61447b699a0045c06e2f, type: 2}
+  - {fileID: 11400000, guid: 3a15611cc59cfb24793c15579d7b99c3, type: 2}
+  dishDescription: A spicy ramen
+  dishSprite: {fileID: 0}

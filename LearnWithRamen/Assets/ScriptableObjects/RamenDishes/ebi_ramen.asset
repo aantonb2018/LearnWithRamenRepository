@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b6a046c5830c6a4cbef9287f4dfaa4e, type: 3}
+  m_Name: ebi_ramen
+  m_EditorClassIdentifier: 
+  dishName: Ebi Ramen
+  listOfCharacter:
+  - {fileID: 11400000, guid: f87d6b8a0805e5e47a313a08b054b9d5, type: 2}
+  - {fileID: 11400000, guid: 76fdf59100ed97e4791267eb88b0a07a, type: 2}
+  dishDescription: blabla ramen de marisco
+  dishSprite: {fileID: 0}

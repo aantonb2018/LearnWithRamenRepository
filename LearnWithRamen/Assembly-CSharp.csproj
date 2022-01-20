@@ -55,9 +55,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\HiraganaReader.cs" />
     <Compile Include="Assets\Scripts\ListOfCharacters.cs" />
-    <Compile Include="Assets\Scripts\Character.cs" />
+    <Compile Include="Assets\Scripts\RamenDishes.cs" />
     <Compile Include="Assets\Scripts\GameCode.cs" />
     <Compile Include="Assets\Scripts\ScriptableButton.cs" />
+    <Compile Include="Assets\Scripts\Character.cs" />
+    <Compile Include="Assets\Scripts\ClientScript.cs" />
+    <Compile Include="Assets\Scripts\DishList.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

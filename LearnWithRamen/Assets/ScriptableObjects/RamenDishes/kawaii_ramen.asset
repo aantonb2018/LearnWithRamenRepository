@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b6a046c5830c6a4cbef9287f4dfaa4e, type: 3}
+  m_Name: kawaii_ramen
+  m_EditorClassIdentifier: 
+  dishName: Kawaii
+  listOfCharacter:
+  - {fileID: 11400000, guid: a955f544216cd4c4b888dee49521029f, type: 2}
+  - {fileID: 11400000, guid: 1802d2bded2bc964a9ee46369b7055ed, type: 2}
+  - {fileID: 11400000, guid: 5246ebe9117ea39439d094a4668020fe, type: 2}
+  - {fileID: 11400000, guid: 5246ebe9117ea39439d094a4668020fe, type: 2}
+  dishDescription: A sweet ramen
+  dishSprite: {fileID: 0}
